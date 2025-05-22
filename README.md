@@ -10,3 +10,5 @@ i'm planning on doing a lot of this in the future since i want to shift into doi
 nothing interesting to see here
 
 also serves as a place where i explore jujutsu vcs, i won't be using git at all for this thing
+
+i also won't use AI generated stuff here, so everything is handwritten, wow, crazy right, no AI slop, imagine that
